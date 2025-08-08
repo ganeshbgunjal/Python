@@ -1,0 +1,3 @@
+Hello, Welcome to the course. 
+I am Ganesh Gunjal, an aspiring data scientist.
+this course is for learning data science and machine leanring.
