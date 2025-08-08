@@ -1,0 +1,8 @@
+Hello Python!
+This course for data science and machine learning.
+this is next line for append mode.
+this is to understand the append and write mode.
+first line
+second line
+third line
+fourth line
