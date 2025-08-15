@@ -1,10 +1,10 @@
-Objective:
-To build a strong Python foundation that will help in Data Science, Automation, and Advanced Python Projects.
-This repository contains my Python learning notes, practice codes, and projects. It covers foundational concepts, intermediate topics, and practical examples.
-
 # Python Learning Journey
 
-This repository contains my **Python learning notes, practice codes, and projects**.
+This repository contains my **Python learning notes, practice codes**. It covers foundational concepts, intermediate topics, and practical examples.
+
+## Objective
+
+To build a strong Python foundation that will help in **Data Science**.
 
 ## Topics Covered
 
@@ -26,3 +26,27 @@ This repository contains my **Python learning notes, practice codes, and project
   - Iterables vs iterators
   - Lazy loading and memory-efficient generators
   - Custom iterators and `yield` keyword
+
+- **Decorators**
+  - Function wrappers to extend behavior
+  - Practical use cases: logging, timing, caching, access control
+
+- **File Handling & Exception Handling**
+  - Reading and writing files
+  - Using `try`, `except`, `finally` blocks for error handling
+  - Handling JSON with `loads` and `dumps`
+
+- **Data Structures**
+  - Lists, tuples, sets, dictionaries
+  - Methods like `append`, `pop`, `update`, `issubset`, `issuperset`, etc.
+
+- **Modules and Packages**
+  - Importing Python modules and packages
+  - Creating custom modules and packages for organized code
+
+- **Practice Examples**
+  - Custom iterators and generators
+  - Closure examples
+  - Decorator examples
+
+
