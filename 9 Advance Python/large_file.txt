@@ -1,0 +1,11 @@
+Generators in Python are special functions that allow you to create lazy iterators.
+Instead of returning all results at once, they use the yield keyword to produce values 
+one at a time when requested. This makes them memory-efficient, especially when dealing
+with large datasets or files. A common use case is reading big files line by line, where
+a normal list would consume too much RAM. Generators start execution where they last
+left off, meaning no recalculations are needed for already-yielded items. They are also
+faster to start, because they don’t have to build a full data structure upfront. 
+Generator expressions, similar to list comprehensions but with parentheses, provide
+a quick way to create generators. Many built-in Python functions like range() and 
+zip() are implemented as generators internally. In short, generators give you
+an elegant, Pythonic way to handle large or infinite sequences without wasting memory.
