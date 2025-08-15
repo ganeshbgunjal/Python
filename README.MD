@@ -6,11 +6,16 @@ This repository contains my **Python learning notes, practice codes**. It covers
 
 To build a strong Python foundation that will help in **Data Science**.
 
+# Python Learning Journey
+
+This repository contains my **Python learning notes, practice codes, and projects**. It covers foundational concepts, intermediate topics, and practical examples.
+
 ## Topics Covered
 
 - **Python Basics**
   - Variables, data types, operators, and expressions
-  - Conditional statements and loops
+  - Conditional statements (if, elif, else)
+  - Loops and control flow (for, while, break, continue, pass)
 
 - **Functions**
   - Defining functions, parameters, and arguments
@@ -48,5 +53,4 @@ To build a strong Python foundation that will help in **Data Science**.
   - Custom iterators and generators
   - Closure examples
   - Decorator examples
-
 
