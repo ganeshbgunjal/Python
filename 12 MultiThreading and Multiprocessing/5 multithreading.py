@@ -2,9 +2,6 @@
 #### I\O bound tasks: tasks that spend more time waiting for I\O operations. (file operations, network requests)
 #### Concurrent execution: when you want to improve the throughput of your application by performing multiple operations concurrently.
 
-###When to use multithreading:-
-#### I\O bound tasks: tasks that spend more time waiting for I\O operations. (file operations, network requests)
-#### Concurrent execution: when you want to improve the throughput of your application by performing multiple operations concurrently.
 
 import threading
 import time
